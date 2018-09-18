@@ -1,0 +1,8 @@
+venv
+myvenv
+*.pyc
+.env
+db.sqlite3
+*.nja
+__pycache__
+.env
